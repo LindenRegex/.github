@@ -4,4 +4,4 @@ The Linden Regex project aims to take a new look at modern regexes.
 - We design and mechanize the **semantics** of real-world regex languages.
 - We write mechanized **proofs** of regex properties, and of the correctness of matching algorithms.
 
-Check out the [project homepage](https://aurele-barriere.github.io/linden.html).
+Check out the [project homepage](https://lindenregex.github.io/).
